@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "American Eagle Tree Service",
+    "phone": "+18184570891",
+    "category": "tree removal",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Los Angeles Tree Removal Experts",
+      "heroSubline": "Safe, efficient tree services for homes and businesses. Protecting your property and our community.",
+      "aboutTitle": "Protecting Los Angeles, One Tree at a Time",
+      "aboutText": [
+        "American Eagle Tree Service started with a simple mission: to provide top-quality tree care while prioritizing safety and environmental responsibility. Founded by a local arborist with a passion for preserving the urban forest of Los Angeles, we've grown from a small team to a trusted provider of comprehensive tree services.",
+        "We're not just tree cutters; we're tree care professionals. Our approach combines years of experience with a commitment to using the latest techniques and equipment. We assess each project carefully, considering the unique challenges of the Los Angeles climate, from drought conditions to wildfire risks in hillside communities.",
+        "We believe in giving back to the community that has supported us. We actively participate in local tree planting initiatives and provide educational resources on responsible tree care. We're dedicated to ensuring that Los Angeles remains a vibrant and green city for generations to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "Licensed, insured, and committed to rigorous safety protocols on every job site."
+        },
+        {
+          "title": "Expert Arborists",
+          "description": "Our team includes certified arborists with extensive knowledge of local tree species."
+        },
+        {
+          "title": "Efficient Service",
+          "description": "We get the job done right, on time, and with minimal disruption to your property."
+        },
+        {
+          "title": "Environmentally Conscious",
+          "description": "We prioritize sustainable practices and responsible tree disposal."
+        }
+      ],
+      "ctaHeadline": "Need Tree Services?",
+      "ctaSubline": "Get a free estimate today! Call now for expert advice and reliable service."
+    },
+    "services": [
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safe and efficient tree removal services for any size or location.",
+        "description": "Removing a tree is a complex and potentially dangerous task, especially in densely populated areas like Los Angeles. Whether it's due to disease, storm damage, or construction needs, American Eagle Tree Service provides expert tree removal services with safety as our top priority.\n\nOur experienced team utilizes specialized equipment and techniques to carefully dismantle and remove trees of all sizes, even in tight spaces or near power lines. We assess each situation to determine the safest and most efficient method, minimizing any risk to your property or surrounding structures. We also handle all necessary permits and ensure compliance with local regulations.\n\nAfter the tree is removed, we can grind the stump and remove the debris, leaving your property clean and ready for replanting or other landscaping projects. We're committed to responsible tree disposal, recycling wood whenever possible and minimizing our environmental impact. Dealing with a hazardous tree? Don't delay – call the professionals at American Eagle Tree Service.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the tree's condition, location, and surrounding hazards.",
+          "Step 2: Safety Planning - We develop a detailed plan to ensure a safe and efficient removal process.",
+          "Step 3: Tree Dismantling - Using specialized equipment, we carefully dismantle the tree piece by piece.",
+          "Step 4: Debris Removal - We remove all debris and grind the stump, leaving your property clean."
+        ],
+        "benefits": [
+          "Eliminate hazards from dead or diseased trees",
+          "Create space for new construction or landscaping",
+          "Improve sunlight and air circulation",
+          "Enhance property value"
+        ],
+        "faq": [
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost of tree removal varies depending on the size, location, and condition of the tree. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "Do I need a permit to remove a tree?",
+            "answer": "In many cases, a permit is required to remove a tree in Los Angeles. We can handle the permit process for you."
+          },
+          {
+            "question": "What happens to the wood after the tree is removed?",
+            "answer": "We strive to recycle wood whenever possible, either by chipping it for mulch or donating it to local organizations."
+          }
+        ]
+      },
+      {
+        "slug": "tree-trimming",
+        "name": "Tree Trimming",
+        "shortDescription": "Professional tree trimming to maintain the health, beauty, and safety of your trees.",
+        "description": "Regular tree trimming is essential for maintaining the health, appearance, and safety of your trees. American Eagle Tree Service provides expert tree trimming services tailored to the specific needs of your trees and your property. Our certified arborists understand the unique challenges of the Los Angeles climate and can identify potential problems before they become major issues.\n\nWe use proper pruning techniques to remove dead, diseased, or damaged branches, improve air circulation, and promote healthy growth. We can also shape and thin trees to enhance their aesthetic appeal and reduce the risk of storm damage. Our team is experienced in working with a variety of tree species common to Southern California, from towering palms to mature oaks.\n\nWhether you need routine maintenance or corrective pruning, American Eagle Tree Service is here to help. We prioritize safety and minimize any disruption to your property. Let us help you keep your trees healthy and beautiful for years to come.",
+        "process": [
+          "Step 1: Tree Evaluation - We assess the tree's health, structure, and growth patterns.",
+          "Step 2: Pruning Plan - We develop a customized pruning plan to achieve your desired goals.",
+          "Step 3: Precision Trimming - We carefully remove branches using proper pruning techniques.",
+          "Step 4: Clean Up - We remove all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Improve tree health and longevity",
+          "Enhance the aesthetic appeal of your property",
+          "Reduce the risk of storm damage",
+          "Increase sunlight and air circulation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I trim my trees?",
+            "answer": "The frequency of tree trimming depends on the species, age, and growth rate of the tree. We recommend scheduling a consultation to determine the best trimming schedule for your trees."
+          },
+          {
+            "question": "What are the benefits of tree trimming?",
+            "answer": "Tree trimming can improve tree health, enhance property value, reduce storm damage risk, and increase sunlight exposure."
+          },
+          {
+            "question": "Can you trim trees near power lines?",
+            "answer": "Yes, we are trained and equipped to safely trim trees near power lines."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Efficient and affordable stump grinding services to remove unsightly tree stumps.",
+        "description": "Leftover tree stumps can be unsightly, hazardous, and attract pests. American Eagle Tree Service offers professional stump grinding services to completely remove tree stumps and restore your property's beauty. Our specialized stump grinding equipment can handle stumps of any size, even those located in difficult-to-reach areas.\n\nWe grind the stump down below ground level, allowing you to replant grass, install landscaping, or build on the area. Our team is experienced in working on properties throughout Los Angeles, from the tight confines of Silver Lake bungalows to the sprawling yards of West LA homes. We take precautions to protect your property and minimize any disruption during the stump grinding process.\n\nSay goodbye to unsightly stumps and reclaim your yard with American Eagle Tree Service. We offer competitive pricing and efficient service. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Stump Assessment - We evaluate the size, location, and accessibility of the stump.",
+          "Step 2: Grinding Preparation - We clear the area around the stump and prepare the equipment.",
+          "Step 3: Stump Grinding - We grind the stump down below ground level.",
+          "Step 4: Clean Up - We remove the debris and fill the hole with soil."
+        ],
+        "benefits": [
+          "Remove unsightly tree stumps",
+          "Eliminate hazards and prevent injuries",
+          "Prevent pest infestations",
+          "Reclaim your yard for landscaping or construction"
+        ],
+        "faq": [
+          {
+            "question": "How long does stump grinding take?",
+            "answer": "The time it takes to grind a stump depends on its size and complexity. Most stump grinding jobs can be completed in a few hours."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to minimize any damage to your lawn. We may need to remove some grass around the stump, but we will restore the area after the grinding is complete."
+          },
+          {
+            "question": "What happens to the stump grindings?",
+            "answer": "We can either remove the stump grindings or leave them for you to use as mulch."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree service for storm damage, fallen trees, and hazardous situations.",
+        "description": "Storms, high winds, and unexpected events can cause trees to fall or become hazardous, posing a threat to your property and safety. American Eagle Tree Service offers 24/7 emergency tree service to address these urgent situations. We understand the stress and urgency of these situations and are committed to providing prompt and reliable service.\n\nOur experienced team is equipped to handle any tree emergency, from removing fallen trees to stabilizing damaged trees. We prioritize safety and work quickly to minimize any further damage or disruption. We're familiar with the unique challenges posed by Santa Ana winds and the increased wildfire risk in Los Angeles, and we're prepared to respond to any tree-related emergency.\n\nDon't wait – call American Eagle Tree Service for immediate assistance with your tree emergency. We're here to help you protect your property and ensure your safety.",
+        "process": [
+          "Step 1: Immediate Response - We respond quickly to your emergency call.",
+          "Step 2: Hazard Assessment - We assess the situation and identify any immediate hazards.",
+          "Step 3: Tree Removal or Stabilization - We remove fallen trees or stabilize damaged trees to prevent further damage.",
+          "Step 4: Debris Removal - We remove all debris and leave your property safe."
+        ],
+        "benefits": [
+          "24/7 emergency service",
+          "Prompt and reliable response",
+          "Experienced and equipped team",
+          "Safety-first approach"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a tree emergency?",
+            "answer": "A tree emergency includes any situation where a tree poses an immediate threat to your property or safety, such as a fallen tree, a tree leaning on a structure, or a tree with significant storm damage."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "Are you insured for emergency tree work?",
+            "answer": "Yes, we are fully insured for all types of tree work, including emergency services."
+          }
+        ]
+      },
+      {
+        "slug": "tree-risk-assessment",
+        "name": "Tree Risk Assessment",
+        "shortDescription": "Professional tree risk assessments to identify potential hazards and prevent accidents.",
+        "description": "Identifying potential hazards in your trees is crucial for preventing accidents and protecting your property. American Eagle Tree Service offers professional tree risk assessments conducted by certified arborists. We thoroughly inspect your trees, looking for signs of disease, structural weaknesses, and other potential hazards.\n\nOur assessments take into account the unique challenges of the Los Angeles environment, such as drought conditions, earthquake risks, and the impact of Santa Ana winds. We provide you with a detailed report outlining our findings and recommendations for mitigating any identified risks. This may include pruning, cabling, bracing, or, in some cases, tree removal.\n\nProtect your property and ensure the safety of your family and neighbors with a tree risk assessment from American Eagle Tree Service. Contact us today to schedule an appointment.",
+        "process": [
+          "Step 1: Visual Inspection - We conduct a thorough visual inspection of your trees.",
+          "Step 2: Hazard Identification - We identify any potential hazards, such as disease, structural weaknesses, or leaning trees.",
+          "Step 3: Risk Assessment - We assess the likelihood and severity of potential risks.",
+          "Step 4: Report and Recommendations - We provide you with a detailed report and recommendations for mitigating any identified risks."
+        ],
+        "benefits": [
+          "Identify potential hazards before they cause accidents",
+          "Protect your property and ensure safety",
+          "Receive expert recommendations for mitigating risks",
+          "Maintain the health and beauty of your trees"
+        ],
+        "faq": [
+          {
+            "question": "What is included in a tree risk assessment?",
+            "answer": "A tree risk assessment includes a thorough visual inspection of your trees, hazard identification, risk assessment, and a detailed report with recommendations."
+          },
+          {
+            "question": "How often should I have a tree risk assessment?",
+            "answer": "We recommend having a tree risk assessment every 1-3 years, depending on the age, species, and condition of your trees."
+          },
+          {
+            "question": "What are the qualifications of your arborists?",
+            "answer": "Our arborists are certified by the International Society of Arboriculture (ISA) and have extensive experience in tree risk assessment."
+          }
+        ]
+      },
+      {
+        "slug": "brush-clearance",
+        "name": "Brush Clearance",
+        "shortDescription": "Protect your home from wildfire with professional brush clearance services.",
+        "description": "In Southern California, especially in Los Angeles, brush clearance is essential for wildfire prevention. American Eagle Tree Service provides professional brush clearance services to help you protect your home and property from the devastating effects of wildfires. We understand the local regulations and requirements for brush clearance and can help you ensure that your property is compliant.\n\nOur team will remove dry brush, weeds, and overgrown vegetation from around your home, creating a defensible space that can slow or stop the spread of fire. We also offer tree trimming services to remove low-hanging branches and create vertical clearance. We're experienced in working in hillside communities and understand the unique challenges of brush clearance in these areas.\n\nDon't wait until it's too late – protect your home with professional brush clearance services from American Eagle Tree Service. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Site Inspection - We inspect your property and identify areas requiring brush clearance.",
+          "Step 2: Vegetation Removal - We remove dry brush, weeds, and overgrown vegetation.",
+          "Step 3: Tree Trimming - We trim low-hanging branches to create vertical clearance.",
+          "Step 4: Debris Removal - We remove all debris and leave your property clean."
+        ],
+        "benefits": [
+          "Protect your home from wildfires",
+          "Comply with local regulations",
+          "Create a defensible space",
+          "Reduce the risk of fire spreading to your property"
+        ],
+        "faq": [
+          {
+            "question": "Why is brush clearance important in Los Angeles?",
+            "answer": "Brush clearance is crucial in Los Angeles due to the dry climate, dense vegetation, and high risk of wildfires."
+          },
+          {
+            "question": "What are the local regulations for brush clearance?",
+            "answer": "Local regulations vary depending on the city and county. We can help you determine the specific requirements for your property."
+          },
+          {
+            "question": "How often should I have brush clearance done?",
+            "answer": "We recommend having brush clearance done at least once a year, typically in the spring before the start of the fire season."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is proud to serve the residents of Long Beach, California. We understand the unique challenges that come with maintaining trees in a city known for its beautiful but aging Craftsman homes, many dating back to the 1920s and 1940s. Our experienced team is equipped to handle everything from routine pruning to complete tree removal, ensuring the safety and beauty of your property.\n\nLong Beach's warm, dry climate year-round can also put stress on trees, making them susceptible to disease and pests. We offer comprehensive tree health assessments and preventative care to keep your trees thriving. Whether you need emergency tree service after a storm or simply want to improve the aesthetics of your landscape, American Eagle Tree Service is here to help.",
+        "localContext": "We provide expert tree care tailored to Long Beach's mature trees and architectural styles, ensuring your property remains safe and beautiful.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is dedicated to providing top-quality tree care services in Pasadena, California. We appreciate the city's rich architectural history, particularly its collection of 1910s-1930s Craftsman bungalows. Our team is skilled in preserving the beauty and integrity of these historic properties while ensuring the health and safety of the surrounding trees.\n\nPasadena's warm and dry climate necessitates proactive tree care to prevent disease and drought stress. We offer a range of services, from pruning and trimming to tree removal and stump grinding. We're committed to helping Pasadena residents maintain healthy and vibrant landscapes.",
+        "localContext": "We understand the importance of preserving Pasadena's historic character and offer tree care solutions that complement its unique architectural style.",
+        "nearbyAreas": [
+          "South Pasadena",
+          "San Marino",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is pleased to offer comprehensive tree care services to the residents of Irvine, California. As a master-planned community with homes primarily built from the 1970s to the present, Irvine features a diverse range of landscapes and tree species. Our team is experienced in handling the unique needs of these modern properties.\n\nIrvine's warm, dry climate demands careful attention to tree health and maintenance. We provide services such as tree trimming, disease prevention, and emergency tree removal to keep your property safe and beautiful. Trust American Eagle Tree Service to provide reliable and professional tree care in Irvine.",
+        "localContext": "We are familiar with the specific landscaping styles and tree varieties common in Irvine's master-planned communities.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service provides expert tree care services in Santa Clarita, California. Known for its newer master-planned communities developed from the 1990s through the 2020s, Santa Clarita presents unique challenges and opportunities for tree care. Our team is equipped to handle the specific needs of these modern landscapes.\n\nThe warm and dry climate of Santa Clarita requires proactive tree maintenance to prevent drought stress and disease. We offer a full range of services, including tree trimming, removal, and stump grinding, to ensure the safety and beauty of your property. American Eagle Tree Service is committed to providing reliable and professional tree care to the Santa Clarita community.",
+        "localContext": "We understand the landscaping trends and common tree species found in Santa Clarita's newer residential developments.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is proud to serve the residents of Torrance, California, with our expert tree care services. Torrance's housing stock is largely made up of 1950s-60s post-war homes, which often feature mature trees that require specialized care. Our team is skilled in maintaining the health and beauty of these established landscapes.\n\nThe warm, dry climate of Torrance can be challenging for trees, making them susceptible to disease and pests. We offer comprehensive tree health assessments and preventative care to keep your trees thriving. Whether you need routine trimming or emergency tree removal, American Eagle Tree Service is here to help.",
+        "localContext": "We are experienced in caring for the mature trees commonly found in Torrance's mid-century neighborhoods.",
+        "nearbyAreas": [
+          "Gardena",
+          "Redondo Beach",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is dedicated to providing top-quality tree care services in Glendale, California. Glendale features a diverse mix of housing styles and mature trees, requiring a knowledgeable and experienced tree service. Our team is equipped to handle the unique needs of Glendale properties, ensuring the health, safety, and beauty of your landscape.\n\nGlendale's warm and dry climate means trees need regular care to thrive. We offer tree trimming, removal, and stump grinding services. American Eagle Tree Service is committed to reliable and professional tree care to the Glendale community.",
+        "localContext": "We are familiar with the diverse landscape styles throughout Glendale.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is proud to provide expert tree care services to the residents of Huntington Beach, California. Known for its beautiful beaches and coastal climate, Huntington Beach presents unique challenges for maintaining healthy trees. Our team is experienced in handling issues related to salt spray, sandy soil, and the specific tree species that thrive in this environment.\n\nThe coastal climate of Huntington Beach can be hard on trees, making them susceptible to wind damage and salt-related stress. We offer a full range of services, including tree trimming, removal, and disease prevention, to ensure the safety and beauty of your property. American Eagle Tree Service is committed to providing reliable and professional tree care to the Huntington Beach community.",
+        "localContext": "We understand the challenges of maintaining trees in Huntington Beach's coastal environment and offer specialized care to address these issues.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Ontario",
+        "slug": "ontario-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is pleased to offer comprehensive tree care services to the residents of Ontario, California. Ontario's diverse landscape includes mature trees and newer developments, requiring a versatile and experienced tree service. Our team is equipped to handle the unique needs of Ontario properties, ensuring the health, safety, and beauty of your landscape.\n\nOntario's warm and dry climate means trees need regular care to thrive. We offer tree trimming, removal, and stump grinding services. American Eagle Tree Service is committed to reliable and professional tree care to the Ontario community.",
+        "localContext": "We are familiar with the diverse landscape styles throughout Ontario.",
+        "nearbyAreas": [
+          "Rancho Cucamonga",
+          "Upland",
+          "Montclair"
+        ]
+      },
+      {
+        "city": "Pomona",
+        "slug": "pomona-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is dedicated to providing top-quality tree care services in Pomona, California. Pomona features a mix of older and newer homes, with many mature trees that require specialized care. Our team is skilled in maintaining the health and beauty of these established landscapes, while also addressing the needs of newer developments.\n\nThe warm, dry climate of Pomona can be challenging for trees, making them susceptible to disease and pests. We offer comprehensive tree health assessments and preventative care to keep your trees thriving. Whether you need routine trimming or emergency tree removal, American Eagle Tree Service is here to help.",
+        "localContext": "We are experienced in caring for the mature trees commonly found in Pomona's neighborhoods.",
+        "nearbyAreas": [
+          "Claremont",
+          "San Dimas",
+          "La Verne"
+        ]
+      },
+      {
+        "city": "Moreno Valley",
+        "slug": "moreno-valley-ca",
+        "state": "CA",
+        "content": "American Eagle Tree Service is proud to offer comprehensive tree care services to the residents of Moreno Valley, California. Moreno Valley's landscape includes a mix of established neighborhoods and newer developments, each with its own unique tree care requirements. Our team is experienced in addressing the diverse needs of properties in the area.\n\nThe warm, dry climate of Moreno Valley necessitates proactive tree care to prevent drought stress and disease. We offer a full range of services, including tree trimming, removal, and stump grinding, to ensure the safety and beauty of your property. American Eagle Tree Service is committed to providing reliable and professional tree care to the Moreno Valley community.",
+        "localContext": "We are familiar with the common tree species and landscaping styles in Moreno Valley.",
+        "nearbyAreas": [
+          "Riverside",
+          "Perris",
+          "Hemet"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tree Removal",
+        "text": "American Eagle Tree Service did an amazing job removing a massive eucalyptus tree from my backyard in Silver Lake. The tree was dangerously close to my house, and they handled the removal with such precision and care. The crew was professional, efficient, and left my yard cleaner than they found it! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Tree Trimming",
+        "text": "I hired American Eagle to trim my ficus trees, which had grown wild and were blocking sunlight. They did a fantastic job shaping the trees and removing dead branches. My only minor complaint is that they were a bit late arriving, but they communicated the delay. Overall, very satisfied with the quality of their work.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Stump Grinding",
+        "text": "I had a large tree stump in my front yard that was an eyesore and a tripping hazard. American Eagle Tree Service came out and ground it down quickly and efficiently. The price was very reasonable, and the team was friendly and professional. I would definitely use them again.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "During a recent windstorm, a large branch fell from my oak tree and landed on my car. I called American Eagle Tree Service, and they were at my house within an hour. They removed the branch safely and efficiently, preventing any further damage. I was so grateful for their quick response and professional service.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Tree Risk Assessment",
+        "text": "I was concerned about the health of my mature pine tree, so I had American Eagle Tree Service perform a risk assessment. The arborist was very knowledgeable and identified several potential problems that I wasn't aware of. He provided me with a detailed report and recommendations for addressing the issues. I feel much more confident about the safety of my tree now.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Brush Clearance",
+        "text": "Living in the Hollywood Hills, I'm always concerned about wildfire risk. American Eagle Tree Service did an excellent job clearing the brush around my property, creating a defensible space. They were thorough, efficient, and affordable. I highly recommend their brush clearance services.",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Los Angeles Tree Removal | American Eagle",
+        "description": "Expert tree removal, trimming, and emergency service in Los Angeles. Licensed & insured. Free quotes!"
+      },
+      "about": {
+        "title": "About American Eagle Tree Service - Los Angeles",
+        "description": "Learn about American Eagle Tree Service's commitment to safety, quality, and environmental responsibility in Los Angeles."
+      },
+      "services": {
+        "title": "Tree Services in Los Angeles | American Eagle",
+        "description": "Comprehensive tree services in Los Angeles: removal, trimming, stump grinding, emergency service, risk assessment."
+      },
+      "contact": {
+        "title": "Contact American Eagle Tree Service - Los Angeles",
+        "description": "Contact American Eagle Tree Service for tree removal, trimming, and emergency services in Los Angeles."
+      },
+      "reviews": {
+        "title": "American Eagle Tree Service Reviews - Los Angeles",
+        "description": "Read reviews of American Eagle Tree Service in Los Angeles. See what our customers say about our tree removal and trimming services."
+      },
+      "service-areas": {
+        "title": "American Eagle Tree Service Areas",
+        "description": "Service areas for American Eagle Tree Service in Los Angeles and surrounding cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-removal": "/images/service-tree-removal.webp",
+      "tree-trimming": "/images/service-tree-trimming.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "tree-risk-assessment": "/images/service-tree-risk-assessment.webp",
+      "brush-clearance": "/images/service-brush-clearance.webp"
+    },
+    "servicesResponsive": {
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-trimming": {
+        "src": "/images/service-tree-trimming.webp",
+        "srcset": "/images/service-tree-trimming-400w.webp 400w, /images/service-tree-trimming-800w.webp 800w, /images/service-tree-trimming-1200w.webp 1200w, /images/service-tree-trimming.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-risk-assessment": {
+        "src": "/images/service-tree-risk-assessment.webp",
+        "srcset": "/images/service-tree-risk-assessment-400w.webp 400w, /images/service-tree-risk-assessment-800w.webp 800w, /images/service-tree-risk-assessment-1200w.webp 1200w, /images/service-tree-risk-assessment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "brush-clearance": {
+        "src": "/images/service-brush-clearance.webp",
+        "srcset": "/images/service-brush-clearance-400w.webp 400w, /images/service-brush-clearance-800w.webp 800w, /images/service-brush-clearance-1200w.webp 1200w, /images/service-brush-clearance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
